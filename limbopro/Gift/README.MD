@@ -1,4 +1,4 @@
-库位置：https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
+本仓库位置：https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
 
 # 主理人说
 
@@ -7,6 +7,9 @@
 - 备份IPA参考 [仅需三步，使用iMazing 轻松下载（当前版本）/或安装IPA文件（旧版本）](https://limbopro.xyz/archives/imazing.html)（需挂代理）
 
 # 预配置文件说明
+
+![img](https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/QuantumultX4limbopro.conf.PNG)
+
 0. [点此](https://t.me/limboprossr/924)查看 QuantumultX策略图标效果预览
 
 1. 本预配置文件，相当于提前为QuantumultX`预设策略`（8个策略）及其`策略图标`，`去广告规则`，`主流站点`分流规则，以及无需拔卡看，`Tiktok`，解锁`VSCO`会员；务必遵循教程步骤前后顺序，以确保其可用性；
